@@ -1,0 +1,15 @@
+git init
+
+git checkout -b ai50/projects/2024/x/degrees
+
+git status
+
+git add degrees.py
+
+git commit -am "submit degrees"
+
+git remote add origin https://github.com/me50/mcavol.git
+
+git remote
+
+git push origin --all
